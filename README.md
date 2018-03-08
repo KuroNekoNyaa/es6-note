@@ -10,3 +10,6 @@ gulp+webpack+es6 note
 app.use(require('connect-livereload')());
 
 ```
+
+
+es6的笔记在app/js/class中
