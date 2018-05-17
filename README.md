@@ -1,5 +1,5 @@
 express -e . 使用ejs模板 .代表在当前文件夹使用 在server目录下<br>
-
+##### ejs只是node.js多种模板引擎中的一种  其他的还有jade等等
 然后再npm install<br>
 
 touch .babelrc  这个文件不能换别的名字<br>
